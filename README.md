@@ -1,4 +1,4 @@
-# PYTORCH.ORG 
+# Tutorial from Pytorch.org 
  * [Welcome To Pytorch Tutorial](https://pytorch.org/tutorials/)
  * [Deep Learning with PyTorch (*Book*)](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 # Lecture
