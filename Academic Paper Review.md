@@ -10,6 +10,7 @@
 * [Dropout: A Simple Way to Prevent Neural Networks from Overtting](https://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)
   * Video Review
     * [Korea University DSBA | Korean | ](https://www.youtube.com/watch?v=czSKnb4nDu8&t=51s) 
+    * [by Geoffrey Hinton] (https://www.youtube.com/watch?v=kAwF--GJ-ek)
 
 ## Natural Language Processing
 * [Natural Language Processing (Almost) from Scratch](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
