@@ -6,5 +6,4 @@
 * [What are the differences between Convolutional1D, Convolutional2D, and Convolutional3D?](https://datascience.stackexchange.com/questions/51470/what-are-the-differences-between-convolutional1d-convolutional2d-and-convoluti)
 * [Understanding dimensions in PyTorch](https://towardsdatascience.com/understanding-dimensions-in-pytorch-6edf9972d3be)
 #### Misc ( Personal Blog or Web Pages)
- * [Deep Learning Paper Review in Korean over 200 papers](https://deep-learning-study.tistory.com/category/%EB%85%BC%EB%AC%B8%20%EC%9D%BD%EA%B8%B0)
  * [Weekly NLP](https://jiho-ml.com/tag/weekly-nlp/)
