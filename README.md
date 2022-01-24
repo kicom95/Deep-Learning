@@ -11,4 +11,5 @@
 ## English
 ## Korean
 * [Standalone-DeepLearning](https://github.com/heartcored98/Standalone-DeepLearning)
-* [자연어처리를 위한 딥러닝 | 김기현 | 패스트캠퍼스]
+* [자연어처리를 위한 딥러닝 CAMP, 패스트캠퍼스]
+* [PyTorch를 활용한 자연어처리 심화 CAMP, 패스트캠퍼스]
