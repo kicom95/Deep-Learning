@@ -34,3 +34,4 @@
     * [Korea University DSBA | Korean | ](https://www.youtube.com/watch?v=sidPSG-EVDo) 
 ### Misc
 * [Roadmap |DBSA](https://jjerry-k.github.io/blog/paper_roadmap/#paper-reading-roadmap)
+* [Deep Learning Paper Review in Korean over 200 papers](https://deep-learning-study.tistory.com/category/%EB%85%BC%EB%AC%B8%20%EC%9D%BD%EA%B8%B0)
