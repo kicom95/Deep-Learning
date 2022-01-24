@@ -11,3 +11,4 @@
 ## English
 ## Korean
 * [Standalone-DeepLearning](https://github.com/heartcored98/Standalone-DeepLearning)
+* [자연어처리를 위한 딥러닝 | 김기현 | 패스트캠퍼스]
