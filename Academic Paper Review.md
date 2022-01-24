@@ -4,6 +4,12 @@
     * [Korea University DSBA | Korean | ](https://www.youtube.com/watch?v=kkJirPwScQQ) 
   * Keywords 
     * Synthetic Minority Oversampling Technique
+## Supervised Learning
+### Ensemble
+* [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf) 
+* Video Reivew
+  * [By Gyeongho-Kim](https://www.youtube.com/watch?v=RP6c7EXvwPs) 
+
 ## Neural Network
 
 ### Learning Strategies
