@@ -9,10 +9,9 @@
 ### Learning Strategies
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
   * Video Reivew
-    * 1) [By 동빈나](https://www.youtube.com/watch?v=58fuWVu5DVU) 2) [By 혁펜하임](https://www.youtube.com/watch?v=m61OSJfxL0U&) 
+    * [By 동빈나](https://www.youtube.com/watch?v=58fuWVu5DVU) [By 혁펜하임](https://www.youtube.com/watch?v=m61OSJfxL0U&) 
   * Blog/Web Review
-    * [By Jinsol Kim](https://gaussian37.github.io/dl-concept-batchnorm/)
-    * [Article 2](https://blog.naver.com/ghdals6864/222446099660)
+    * [By Jinsol Kim](https://gaussian37.github.io/dl-concept-batchnorm/) [By 콩코딩](https://blog.naver.com/ghdals6864/222446099660)
 * [Dropout: A Simple Way to Prevent Neural Networks from Overtting](https://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)
   * Video Review
     * [Korea University DSBA | Korean | ](https://www.youtube.com/watch?v=czSKnb4nDu8&t=51s) 
@@ -20,7 +19,6 @@
 
 ## Natural Language Processing
 * [Natural Language Processing (Almost) from Scratch](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
-  * DSBA
   * Video Review
     * [ByFirst Author](https://www.youtube.com/watch?v=gskjZ90ma94)  
 ### Representation Learning
