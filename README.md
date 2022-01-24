@@ -11,6 +11,3 @@
 ## English
 ## Korean
 * [Standalone-DeepLearning](https://github.com/heartcored98/Standalone-DeepLearning)
-# Paper Review
-* [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://www.youtube.com/watch?v=RP6c7EXvwPs&t=30s)
-
