@@ -1,5 +1,6 @@
 #### Models
 * [Text Classification with CNNs in PyTorch](https://towardsdatascience.com/text-classification-with-cnns-in-pytorch-1113df31e79f)
+* [How to make word vectors from scratch](https://ljvmiranda921.github.io/notebook/2021/12/11/word-vectors/)
 #### Knowledge
 * [Machine Learning Cheet Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/blob/master/machine-learning-cheat-sheet.pdf)
 * [Gradient Descent Optimization Algorithms](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
